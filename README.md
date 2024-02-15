@@ -1,14 +1,7 @@
 # React + TypeScript + Vite
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ShoezHub - MERN Stack Shoe Website</title>
-</head>
 
-<body>
+
     <h1>Project Name: ShoezHub</h1>
 
     <h2>Description:</h2>
@@ -54,6 +47,3 @@
 
     <h2>License:</h2>
     <p>This project is licensed under the MIT License - see the LICENSE.md file for details.</p>
-</body>
-
-</html>
