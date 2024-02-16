@@ -1,6 +1,6 @@
-# React + TypeScript + Vite
+# MERN STACK
 <h2>Description:</h2>
-    <p>ShoezHub is a full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) that allows users to explore and shop for a wide variety of shoes. The website features an intuitive user interface with advanced filtering options, enabling users to easily find the perfect pair of shoes based on their preferences.</p>
+    <p>ShoesHub is a full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) that allows users to explore and shop for a wide variety of shoes. The website features an intuitive user interface with advanced filtering options, enabling users to easily find the perfect pair of shoes based on their preferences.</p>
 
 <h2>Key Features:</h2>
 <ul>
@@ -12,6 +12,9 @@
 </ul>
 Technologies Used:
 
-Frontend: React.js, TypeScript, CSS
-Backend: Node.js, Express.js
-Database: MongoDB
+<ul>
+    <li>Frontend: React.js, TypeScript, CSS</li>
+    <li>Backend: Node.js, Express.js</li>
+    <li>Database: MongoDB</li>
+    
+</ul>
